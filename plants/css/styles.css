@@ -34,10 +34,6 @@ header {
     padding-top: 10px;
 }
 
-/* .navbar {
-    width: 452px;
-} */
-
 .menu {
     width: 452px;
     display: flex;
@@ -224,7 +220,6 @@ header {
 .service_button {
     padding-top: 25px;
     width: 559px;
-    /* height: 50px; */
     display: flex;
     float: right;
     justify-content: space-between;
@@ -251,7 +246,6 @@ header {
 /********PICTURES******/
 
 .service_pic {
-    /* height: 955px; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -338,7 +332,6 @@ header {
 
 .btn_pic {
     vertical-align: middle;
-    /* float: right; */
     margin-right: 40px;
     margin-top: 17px;
     width: 16px;
@@ -396,18 +389,6 @@ header {
     color: #E06733;
     background-color: #FFFFFF;
 }
-
- /* .btn_text:hover {
-    background-color:#E06733;
-    color: #FFFFFF;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.button_text:hover {
-    background-color: #E06733;
-}  */
-
 .leafs_s {
     width: 152px;
     margin-left: 290px;
